@@ -2,4 +2,3 @@
 
 
 Launch the trainer with run.bat file
-
