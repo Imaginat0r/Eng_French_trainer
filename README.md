@@ -9,5 +9,5 @@ Launch the trainer with run.bat file
 - pandas
 
 ## Custom vocabulary
-You can add new words in the new_words.xlsx file or create your own xlsx file following the same format.
+You can add new words in the **new_voc.xlsx** file or create your own xlsx file following the same format.
 Then, load using the GUI
