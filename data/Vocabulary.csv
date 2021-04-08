@@ -1,0 +1,1608 @@
+ID;EN;FR;Count_Learn;Count_Test;Error_Test
+1;call sign;indicatif;0;0;0
+2;disregard;ignorer;0;1;1
+3;beyond;au-delà;1;0;0
+4;above;au-dessus;0;0;0
+5;to acknowledge;accuser récpetion;4;0;0
+6;to read back;collationner;1;0;0
+7;to state;indiquer;0;0;0
+8;displaced threshold;seuil décalé;1;0;0
+9;paved runway;piste en dur;4;0;0
+10;grass strip;piste en herbe;0;1;1
+11;concrete;beton;0;0;0
+12;signal area;aire à signaux;0;0;0
+13;ramp;aire de stationnement;0;0;0
+14;facilities;installations de services;0;0;0
+15;hangar;hangar;2;1;0
+16;service road;voie de service;0;0;0
+17;tanker;camion citerne;0;0;0
+18;mower;faucheus;0;0;0
+19;disused;désafecté;0;0;0
+20;ditch;fossé;0;1;1
+21;fence;cloture;1;0;0
+22;power line;ligne electrique;2;0;0
+23;gravel;gravier;1;2;0
+24;windsock;manche à air;1;0;0
+25;apron;parking;0;1;0
+26;workshop;atelier;2;0;0
+27;fuel truck;camion citerne;1;0;0
+28;fuel station;pompe à essence;0;0;0
+29;sweeper;balayeuse;0;0;0
+30;provisional;provisoire;1;0;0
+31;trench;tranchée;1;0;0
+32;blast fences;barriere anti souffle;1;0;0
+33;startup;mise en route;2;0;0
+34;towbar;barre de remoruage;0;0;0
+35;chocks inserted;cales en places;1;0;0
+36;chocks removed;cales otées;0;0;0
+37;prop wash;souffle de l'hélice;1;1;1
+38;holding point;point d'arret;1;0;0
+39;run up point;aire de point fixe;0;0;0
+40;tie down point;point d'ammarage;0;0;0
+41;marshalleur;parqueur;0;1;1
+42;jet blast;jet de reacteur;0;0;0
+43;to speed up;accelerer;0;0;0
+44;to mind;faire attention;2;0;0
+45;to look out;surveiller;1;0;0
+46;to bypass;contourner;2;0;0
+47;to expedite;accelerer une manœuvre;1;0;0
+48;to exercise caution;faire très attention;1;0;0
+49;when airbone;après l'envol;1;0;0
+50;glidepath;plan d'approche;0;0;0
+51;flare;arrondi;0;0;0
+52;check ride;test en vol;0;0;0
+53;straight-in-approach;approche directe;0;0;0
+54;aiming point;point d'aboutissement;2;0;0
+55;overhead;vertical;0;0;0
+56;practice forced landing;encadrement;0;0;0
+57;bird hazard;risque aviaire;1;0;0
+58;to sidestep;faire une baionette;0;0;0
+59;to shorten;raccourcir;0;0;0
+60;to hold over;attendre au dessus de;0;0;0
+61;inbound;en rapprochement;2;1;1
+62;outbound;en éloignement;0;0;0
+63;southbound;route sud;0;0;0
+64;maiden flight;premier vol;0;0;0
+65;ferry flight;vol de convoyage;0;0;0
+66;cross-country flight;vol de navigation;0;0;0
+67;avoiding action;evitement;0;0;0
+68;unreported;non signalé;1;0;0
+69;overtaking;en dépassement;1;0;0
+70;endurance;autonomie;0;0;0
+71;pusher;avion à moteur arriere;0;0;0
+72;floatplane;hydravion;0;0;0
+73;fairing ;carrenage;0;0;0
+74;wing root;emplanture;0;0;0
+75;wing tip;bout d'aile;0;0;0
+76;dihedral ;diedre;0;0;0
+77;washout;vrillage;0;0;0
+78;spar;longeron;0;1;0
+79;rib;nervure;1;0;0
+80;wing span;envergure;0;0;0
+81;chord;corde;0;1;0
+82;leading edge;bord d'attaque;0;0;0
+83;trailing edge;bord de fuite;1;0;0
+84;slats;becs;0;0;0
+85;horizontal stabilizer;plan fixe;1;0;0
+86;elevator;profondeur;1;0;0
+87;fin;dérive;0;0;0
+88;rudder;direction;0;0;0
+89;skin;revetement;0;0;0
+90;fabric;toile;0;0;0
+91;composite;composite;1;0;0
+92;carbon fiber;fibre de carbone;1;1;1
+93;main landing gear;train principal;2;0;0
+94;rim;jante;2;0;0
+95;inner tube;chambre à air;1;0;0
+96;tail dragger;train classique;0;1;1
+97;shock absorber;amortisseur;0;0;0
+98;gear strut;jambe de train;1;0;0
+99;wheel spat;carrenage de roue;0;0;0
+100;gear door;trappe de train;0;0;0
+101;wheel well;logement de roue;3;0;0
+102;actuator ;actionneur verin;0;1;1
+103;bellcrank;renvoi, guignol;0;0;0
+104;starboard;tribord;0;0;0
+105;port;babord;1;0;0
+106;inner;intérieur;0;0;0
+107;outer;exterieur;0;0;0
+108;pitch;tangage;0;0;0
+109;roll;roulis;0;0;0
+110;yaw;lacet;0;0;0
+111;lift;portance;1;0;0
+112;drag;trainé;0;0;0
+113;flight envelope;domaine de vol;1;0;0
+114;lift-drag ratio;finesse;0;0;0
+115;payload;charge utile;1;0;0
+116;wing loading;charge alaire;0;1;0
+117;arm;bras de levier;1;0;0
+118;to extend;sortir;1;0;0
+119;to lower;abaisser;2;0;0
+120;to cycle;cycler;0;0;0
+121;to retact;rentrer;0;0;0
+122;to raise;rentrer;0;0;0
+123;to inflate;gonfler;0;0;0
+124;windshield;pare bise;0;0;0
+125;canopy;veriere;0;0;0
+126;throttle;manette des gazs;0;0;0
+127;lever;levier;0;0;0
+128;instrument pannel;tableau de bord;1;0;0
+129;aispeed indicator;badin;0;0;0
+130;altimer setting;calage altimetrique;1;0;0
+131;compass;compas;0;0;0
+132;turn coordinator;coordinateur de virage;0;0;0
+133;slip ball;bille;0;0;0
+134;switch;interrupteur;0;1;1
+135;toggle switch;interrupteur à levier;0;0;0
+136;breaker;discjoncteur;0;0;0
+137;gauge (gage);indicateur;0;0;0
+138;manifold pressure;pression d'admission;2;0;0
+139;low level light;voyant de bas niveau;2;0;0
+140;stall warning horn;avertisseur sonore de décrochage;0;0;0
+141;flight deck;poste de pilotage;0;0;0
+142;side window;vitre latérale;2;0;0
+143;latch;verrou,fermeture;2;0;0
+144;control stick;manche à balais;2;0;0
+145;glareshield;casquette de tableau de bord;2;0;0
+146;vertical speed indicator;vario;0;0;0
+147;directional gyro;gyro directionnel;1;0;0
+148;turn and bank;bille aiguille;0;0;0
+149;rocker switch;interrupteur basculeur;3;0;0
+150;dimmer;rhéostat d'éclairage;1;0;0
+151;fuse;fusible;1;0;0
+152;vacuum gauge;indicateur de dépression;0;0;0
+153;stall warner;avertisseur de décrochage;0;1;0
+154;to power on;mettre sous tension;0;0;0
+155;to power off;mettre hors tension;1;0;0
+156;to go blank;s'éteindre, s'effacer (ecran);0;0;0
+157;to dim;attenuer (éclairage);0;0;0
+158;within range;à portée;0;0;0
+159;headset;casque radio;1;0;0
+160;transceiver;emmetteur recepteur;1;0;0
+161;readable;lisible;1;0;0
+162;distorted;déformé;0;0;0
+163;distress beacon;balise de detresse;0;0;0
+164;wavelength;longueur d'onde;0;0;0
+165;out of range ;hors de porté;3;1;0
+166;stuck mike;alternat coincé sur emission;2;0;0
+167;readability;lisibilité;0;0;0
+168;garbled ;brouillé;0;1;1
+169;brownout;extinction de l'affichage par chute de tension;0;0;0
+170;cowling;capot;1;0;0
+171;engine mount;bati moteur;1;0;0
+172;firewall;cloison pare feu;1;0;0
+173;blade;pale;1;0;0
+174;prop governor;régulateur d'hélice;0;0;0
+175;turbocharged;turbo compressé;4;0;0
+176;duct;conduit;0;0;0
+177;vent;mise à l'air libre;1;0;0
+178;oil inspection door;trappe d'huile;0;0;0
+179;grease;graisse;1;0;0
+180;octane index;indice d'octane;0;0;0
+181;fuel system;circuit carburant;1;0;0
+182;fuel filter;filtre à huile;1;0;0
+183;ignition;allumage;0;0;0
+184;engine check;essai moteur;1;0;0
+185;4 stroke;quatres temps;1;1;1
+186;aircooled ;refroidi par air;0;0;0
+187;camshaft;arbre à came;1;0;0
+188;crankcase;carte moteur;2;0;0
+189;setp;escabeau;2;0;0
+190;power drill;perceuse;0;0;0
+191;hammer;marteau;1;0;0
+192;wrench;clé;2;0;0
+193;screw;vis;2;0;0
+194;bolt;boulon;1;0;0
+195;rivet;rivet;1;0;0
+196;lock washer;rondelle de bloquage;2;0;0
+197;cotter pin;goupille fendu;0;0;0
+198;steel;acier;1;0;0
+199;copper;cuivre;0;0;0
+200;generator;generatrice;0;0;0
+201;agree;être d'accord;0;0;0
+202;answers;réponses;0;0;0
+203;biro ;bic;1;0;0
+204;either;non plus;0;0;0
+205;enjoy;aimer,apprécier;1;0;0
+206;follow;suivre;0;0;0
+207;further;plus, d'autres;0;0;0
+208;mean;signifier;0;0;0
+209;quiet;doucement,silence;0;0;0
+210;quite;assez;2;0;0
+211;task;tâches;2;0;0
+212;the differend from;différend de ;1;0;0
+213;the same as ;le même que;0;0;0
+214;to add;ajouter;0;0;0
+215;you many sit down;vous pouvez vous asseoir;0;0;0
+216;atlas;atlas;0;0;0
+217;ballpoint pen;stylo a bille;1;0;0
+218;book;livre;0;0;0
+219;calculator;calculatrice;1;0;0
+220;calendar;calendrier;1;0;0
+221;cardboard folder;farde en carton;0;0;0
+222;clamp file;farde a devis;2;0;0
+223;compass;compas;0;0;0
+224;correcting fluid;correcteur (tipex);0;0;0
+225;couloured pencils;crayon de couleur;0;0;0
+226;desk;bureau;2;0;0
+227;diary;journal;0;0;0
+228;drawer;tiroir;0;0;0
+229;drawing pin;punaise;2;1;1
+230;eraser;gomme;1;0;0
+231;exercise-book;livre d'exercices;0;0;0
+232;foutain pen;stylo a bille;0;0;0
+233;geometry set;matériel de géométrie;1;0;0
+234;glue;colle;2;0;0
+235;handkierchief (hanky);mouchoirs;0;0;0
+236;highlighter pen;fluo;0;0;0
+237;hole punch;perforatrice;1;0;0
+238;homewoork note book;journal de classe;0;0;0
+239;journal;journal de classe;1;0;0
+240;key;clées;0;0;0
+241;lunch box;boite a tartine;0;1;1
+242;metal;métal;1;0;0
+243;pencil ;crayon ;0;0;0
+244;pencil case;trousse;0;1;1
+245;pencil sharpener;taille crayon;0;0;0
+246;plain;vierge;1;0;0
+247;pocket calculator;calculatrice de poche;2;0;0
+248;poly pockets;chemise plastiques;0;0;0
+249;purse;portefeuille;0;0;0
+250;safety pin;epingles de surtée;2;0;0
+251;school bag;cartable;0;0;0
+252;scissors;cisseau;0;0;0
+253;sellotape;papier collant;0;0;0
+254;spiral pad;cahier a spiral;0;1;1
+255;squared;quadrillé;0;0;0
+256;stamp;tampon;2;0;0
+257;stapler;agrapheuse;0;1;1
+258;staples;agraphes;0;0;0
+259;timetable;horaire;0;0;0
+260;tissue;mouchoir;0;0;0
+261;triangle;équerre;1;0;0
+262;watch;montre;1;0;0
+263;wooden;bois;1;0;0
+264;to accept;accepter;0;0;0
+265;to check;vérifier;1;0;0
+266;to choose;choisir;0;0;0
+267;to clean;nettoyer;0;0;0
+268;to click (ICT);cliquer;0;0;0
+269;to climb, get on(to);monter;1;0;0
+270;to close;fermer;0;0;0
+271;to come;venir;0;0;0
+272;to contact;contacter;1;0;0
+273;to continue/carry on;continuer;1;0;0
+274;to cope/manage/get by;se débrouiller;0;0;0
+275;to copy;copier;0;0;0
+276;to cost;coûter;1;1;1
+277;to count, intend, count on (someone);compter, compter sur;0;0;0
+278;to cross, go across;traverser;1;0;0
+279;to cry;pleurer;0;0;0
+280;to decide;décider;0;0;0
+281;to depart/leave;partir;1;0;0
+282;to describe;décrire;3;0;0
+283;to deserve;mériter;0;0;0
+284;to die;mourir;1;0;0
+285;to discuss;discuter;0;0;0
+286;to draw;dessiner;0;0;0
+287;to drink;boire;1;0;0
+288;to drive;conduire;1;0;0
+289;to earn;gagner;0;0;0
+290;to eat;manger;0;0;0
+291;to end;(se) terminer;1;0;0
+292;to enjoy oneself;s’amuser;2;0;0
+293;to enter/go in;entrer;0;0;0
+294;to escape;s’échapper;0;0;0
+295;to explain;expliquer;0;0;0
+296;to fail;rater;1;0;0
+297;to fall;tomber;1;0;0
+298;to fall asleep;s’endormir;0;0;0
+299;to feed, nourish;nourrir;2;0;0
+300;to fill/fill in;remplir;1;0;0
+301;to find;trouver;3;0;0
+302;to finish, end;finir;0;0;0
+303;to fly;voler;0;0;0
+304;to follow;suivre;0;0;0
+305;to forget, to leave something behind;oublier;1;0;0
+306;to forgive;pardonner;0;0;0
+307;to get angry;se fâcher;0;1;1
+308;to get dressed;s’habiller;0;0;0
+309;to get undressed;se déshabiller;0;0;0
+310;to give;donner;0;0;0
+311;to give back;rendre;0;0;0
+312;to give (a gift);offrir;2;0;0
+313;to go;aller;4;0;0
+314;to go (in a car);rouler;0;1;0
+315;to get dressed;s’habiller;2;0;0
+316;to get into (bus, car, train);monter (dans);0;0;0
+317;to get out of (bus, car, train);descendre (de);0;0;0
+318;to get up;se lever;0;0;0
+319;to go down;descendre;0;0;0
+320;to go for a walk/a ride;se promener;0;0;0
+321;to go out;sortir;0;0;0
+322;to go to bed;se coucher;0;0;0
+323;to go up;monter;1;0;0
+324;to harm/damage;endommager;0;0;0
+325;to hate;détester;3;1;1
+326;to have;avoir;0;0;0
+327;to have to/must;devoir;2;0;0
+328;to hear;entendre;2;0;0
+329;to help;aider;3;0;0
+330;to hold;tenir;0;0;0
+331;to hope;espérer;0;0;0
+332;to hurry;se dépêcher;1;0;0
+333;to hurt (oneself);(se) faire mal;2;1;1
+334;to improve;améliorer;0;0;0
+335;to inform;informer;1;0;0
+336;to introduce (an item, an idea);introduire;0;0;0
+337;to introduce (a person);présenter;0;0;0
+338;to invite;inviter;0;0;0
+339;to jump;sauter;2;0;0
+340;to knock, hit;frapper;0;0;0
+341;to knock over;renverser;2;0;0
+342;to know (a fact);savoir;0;0;0
+343;to know (person, place);connaître;0;0;0
+344;to land;atterrir;0;0;0
+345;to last;durer;0;0;0
+346;to laugh;rire;0;0;0
+347;to learn;apprendre;0;0;0
+348;to leave, to depart;partir;0;0;0
+349;to leave (somewhere, somebody);quitter;0;0;0
+350;to leave behind (an object);laisser, oublier;2;0;0
+351;to lend;prêter;2;0;0
+352;to light, turn/switch on;allumer;1;0;0
+353;to like;aimer;1;0;0
+354;to listen;écouter;1;0;0
+355;to live (inhabit);habiter;2;0;0
+356;to live;vivre;0;0;0
+357;to look after1;s’occuper de;1;0;0
+358;to look after/mind (child, dog);garder;2;0;0
+359;to look for;chercher;0;0;0
+360;to look like, to resemble;ressembler;0;0;0
+361;to lose;perdre;0;1;0
+362;to love;adorer;0;0;0
+363;to manage, to cope;se débrouiller;2;1;0
+364;to manage (business);gérer;0;0;0
+365;to mean to (do);avoir l’intention de (faire);0;0;0
+366;to mean/to signify;signifier;1;0;0
+367;to meet;rencontrer;2;0;0
+368;to miss, to be lacking;manquer;0;1;0
+369;to miss (train, bus etc.);rater;0;0;0
+370;to need;avoir besoin de;0;0;0
+371;to note;noter;0;1;1
+372;to offer, to give a present;offrir;0;0;0
+373;to open;ouvrir;1;0;0
+374;to order;commander;1;0;0
+375;to organise;organiser;0;0;0
+376;to park;garer, stationner;0;0;0
+377;to pass;passer;2;0;0
+378;to phone;téléphoner;0;0;0
+379;to place;poser;0;0;0
+380;to please;plaire (à);0;0;0
+381;to prefer;préférer;2;0;0
+382;to present;présenter;1;0;0
+383;to prevent;empêcher;1;0;0
+384;to produce;produire;0;1;0
+385;to pull;tirer;2;0;0
+386;to push;pousser;0;0;0
+387;to put/to wear;mettre;2;0;0
+388;to put back/to wear again;remettre;0;0;0
+389;to read;lire;1;0;0
+390;to receive;recevoir;0;0;0
+391;to recommend;recommander;0;0;0
+392;to refund;rembourser;1;0;0
+393;to regret, be sorry;regretter;0;0;0
+394;to remember;se rappeler/se souvenir;0;0;0
+395;to rent/to hire;louer;1;0;0
+396;to repair;réparer;2;0;0
+397;to repeat;répéter;0;0;0
+398;to replace;remplacer;0;1;1
+399;to reply;répondre;0;0;0
+400;to research;faire des recherches;1;0;0
+401;to reserve;réserver;0;0;0
+402;to rest;se reposer;0;0;0
+403;to return, to go back;rentrer (home), retourner (to school);0;0;0
+404;to ring (a bell);sonner;0;0;0
+405;to save;sauver;1;0;0
+406;to say;dire;1;0;0
+407;to see;voir;0;0;0
+408;to seem;sembler;0;0;0
+409;to sell;vendre;0;0;0
+410;to send;envoyer;0;0;0
+411;to serve;servir;0;0;0
+412;to show;montrer;0;0;0
+413;to sign;signer;1;0;0
+414;to sing;chanter;0;0;0
+415;to sit down;s’asseoir;1;0;0
+416;to sleep;dormir;0;0;0
+417;to smile;sourire;0;0;0
+418;to speak;parler;0;0;0
+419;to spend (money);dépenser;1;0;0
+420;to spend (time);passer;0;0;0
+421;to squash;écraser;1;0;0
+422;to stay;rester;3;0;0
+423;to steal;voler;0;0;0
+424;to stick;coller;0;0;0
+425;to stop;(s)’arrêter;1;0;0
+426;to study;étudier;0;0;0
+427;to succeed;réussir;0;0;0
+428;to switch off;fermer/éteindre;0;0;0
+429;to take;prendre;2;0;0
+430;to take off (plane);décoller;2;0;0
+431;to take off (clothes etc.);ôter/enlever;1;0;0
+432;to tell/recount;raconter;0;0;0
+433;to tell/to say;dire;0;0;0
+434;to thank;remercier;1;0;0
+435;to think (about);penser;1;0;0
+436;to think, believe;croire;1;0;0
+437;to throw;jeter;1;0;0
+438;to touch;toucher;0;1;1
+439;to travel;voyager;1;0;0
+440;to try;essayer;1;0;0
+441;to understand;comprendre;2;0;0
+442;to use;se servir de, utiliser;1;0;0
+443;to visit (person);rendre visite à;0;0;0
+444;to visit (place);visiter;1;0;0
+445;to wait for;attendre;2;0;0
+446;to wake up;se réveiller;0;0;0
+447;to walk;marcher, aller à pied;0;0;0
+448;to want;vouloir;0;0;0
+449;to want, desire;désirer;0;0;0
+450;to warn;prévenir;0;0;0
+451;to wash;(se) laver;0;0;0
+452;to wear;porter;0;0;0
+453;to weigh;peser;1;1;0
+454;to win;gagner;1;0;0
+455;to wish;souhaiter;0;0;0
+456;to work;travailler;0;0;0
+457;to work (function);marcher;0;0;0
+458;to write;écrire;0;0;0
+459;active;actif/active;0;1;1
+460;alike, the same;pareil/le;0;0;0
+461;easy;facile, simple;1;0;0
+462;expensive;cher/chère;1;0;0
+463;exciting;passionnant/excitant;3;0;0
+464;fair;juste;0;0;0
+465;famous;célèbre;1;0;0
+466;fantastic;fantastique;0;0;0
+467;fashionable;à la mode;1;0;0
+468;fast;rapide;0;0;0
+469;fat;gros/grosse;0;0;0
+470;favourite;favori/favorite, préféré;1;0;0
+471;former;ancien/ne;0;1;0
+472;free (at no cost);gratuit;0;0;0
+473;free (unoccupied, available);libre;1;1;0
+474;friendly;sympathique;0;0;0
+475;frightening;effrayant;1;1;1
+476;full;plein;0;1;0
+477;fun, amusing;amusant;0;0;0
+478;funny (comical);drôle, marrant, rigolo/te;0;1;0
+479;generous;généreux/généreuse;0;0;0
+480;good;bon/ne;0;0;0
+481;good (well-behaved);sage;1;0;0
+482;grateful;reconnaissant;3;0;0
+483;great (fantastic);chouette, super, génial;1;0;0
+484;great (marvellous);formidable, merveilleux/euse;0;0;0
+485;happy;content, heureux/euse;0;0;0
+486;hard;dur, difficile;0;0;0
+487;hardworking;travailleur/travailleuse;0;0;0
+488;healthy (food/way of life);sain;1;0;0
+489;heavy;lourd;1;0;0
+490;high, tall (building);haut;0;1;0
+491;honest;honnête;0;2;1
+492;hot;chaud;0;0;0
+493;ideal;idéal;0;0;0
+494;in a good mood;de bonne humeur;1;1;1
+495;in a hurry;pressé;2;0;0
+496;independent;indépendant;1;0;0
+497;intelligent, clever;intelligent;0;0;0
+498;kind;gentil/gentille;0;0;0
+499;large (object);grand;1;0;0
+500;large (person);gros/grosse;1;0;0
+501;last;dernier/dernière;1;1;0
+502;lazy;paresseux/euse;2;0;0
+503;light;léger/légère;1;1;0
+504;locked;fermé à clef;0;0;0
+505;long;long/ue;1;0;0
+506;lost;perdu;2;1;0
+507;magnificent;magnifique;1;0;0
+508;marvellous;merveilleux/euse;0;0;0
+509;mature;mûr;1;0;0
+510;modern;moderne;0;0;0
+511;naughty;méchant, vilain;0;0;0
+512;necessary;nécessaire;1;0;0
+513;negative;négatif/ve;1;0;0
+514;new (brand new);neuf/neuve;0;0;0
+515;new;nouveau/nouvel/nouvelle;0;0;0
+516;next;prochain;0;0;0
+517;nice, likeable;sympa (sympathique);1;0;0
+518;noisy;bruyant;0;0;0
+519;normal;normal;1;0;0
+520;numerous;nombreux/euse;2;0;0
+521;old;vieux/vieil/vieille;0;0;0
+522;old (former);ancien/ne;1;0;0
+523;old fashioned;démodé;0;0;0
+524;open;ouvert;1;0;0
+525;optimistic;optimiste;0;0;0
+526;other;autre;0;1;1
+527;own;propre;0;0;0
+528;(im)patient;(im)patient;0;0;0
+529;peaceful;tranquille, calme;1;0;0
+530;perfect;parfait;1;0;0
+531;pessimistic;pessimiste;1;0;0
+532;pleased;content;1;0;0
+533;pleasant (person);aimable;0;1;1
+534;pleasant (thing);agréable;1;0;0
+535;(im)polite;(im)poli;1;0;0
+536;popular;populaire;0;0;0
+537;positive;positif/ve;3;0;0
+538;practical;pratique;0;0;0
+539;pretty;joli;0;0;0
+540;quiet;tranquille, calme;0;1;1
+541;ready;prêt;0;0;0
+542;real;réel/le;0;1;1
+543;reasonable;raisonnable;0;1;0
+544;recent;récent;0;0;0
+545;recognised/well known;reconnu;3;0;0
+546;responsible;responsable;0;0;0
+547;rich;riche;1;1;0
+548;ridiculous;ridicule;3;0;0
+549;ripe;mûr;0;0;0
+550;rotten;pourri;0;0;0
+551;sad;triste;0;1;1
+552;safe;sauf/sauve;0;0;0
+553;same;même;0;0;0
+554;satisfied;satisfait;0;0;0
+555;selfish;égoïste;0;0;0
+556;sensational;sensationnel/elle, (sensass);0;0;0
+557;serious;sérieux/ieuse, grave;1;0;0
+558;short;court;2;0;0
+559;shy;timide;2;0;0
+560;silent;silencieux/ieuse;1;0;0
+561;silly;bête;0;0;0
+562;situated;situé;0;0;0
+563;slim;mince;0;0;0
+564;small, short (person);petit;1;0;0
+565;strict;sévère, strict;0;0;0
+566;strong;fort;0;0;0
+567;superb;superbe;0;1;1
+568;surprised;surpris, étonné;1;0;0
+569;talkative;bavard;0;0;0
+570;thin, narrow;étroit;1;0;0
+571;tidy;rangé;0;0;0
+572;tired;fatigué;2;0;0
+573;tiring;fatigant;0;0;0
+574; true;VRAI;0;1;0
+575;typical;typique;0;0;0
+576;ugly;laid, moche;1;0;0
+577;unbelievable;incroyable;1;0;0
+578;unfair;injuste;0;0;0
+579;unhappy;malheureux/malheureuse;1;1;1
+580;unhealthy;malsain;1;0;0
+581;unpleasant;désagréable;0;0;0
+582;useful;utile;0;0;0
+583;useless;inutile;0;0;0
+584;valid;valable;0;0;0
+585;valuable;d’une grande valeur;0;0;0
+586;weak;faible;1;0;0
+587;wet;mouillé;0;0;0
+588;worried;inquiet/inquiète;2;1;0
+589;wise;sage;1;0;0
+590;young;jeune;0;0;0
+591;on board;à bord;1;0;0
+592;"Nearby
+abaque";"A proximité
+abaque";1;0;0
+593;chart;abaque;0;1;1
+594;design chart;abaque;1;1;0
+595;nomograh;abaque;0;0;0
+596;slaughter;abbatage;1;0;0
+597;adress;aborder;2;0;0
+598;shelter;abri;0;0;0
+599;igloo;abri à munitions;2;0;0
+600;metric point;abscisse;2;0;0
+601;acceptance;acceptation;0;0;0
+602;acces;accès, accessibilité;1;0;0
+603;pipe fitting;accessoire de canalisation;1;0;0
+604;cheer;acclamation;1;0;0
+605;shoulder;accotement;0;1;1
+606;verge;accotement;1;0;0
+607;provided shoulder / berm;accotement (aménagé);1;0;0
+608;stabilised shoulder / berm;accotement (stabilisé);1;0;0
+609;hard shoulder;accotement stabilisé;1;0;0
+610;"Acknowledge(to)
+completion";"Accuser de réception
+achèvement des travaux";4;0;0
+611;steel;acier;1;1;1
+612;Reinforcement bar;Acier à armé;0;0;0
+613;Reinforcement steel;Acier à armé;0;0;0
+614;Structural steel interim payment;Acier de structure acompte;1;0;0
+615;shares;actions;1;0;0
+616;admixture;additif;0;0;0
+617;suitable;adéquat;1;1;1
+618;Bond;Adhérence;0;1;1
+619;"Grip
+farewell";"Adhérence
+adieu";0;0;0
+620;competitive tendering;adjudication;0;0;0
+621;open tendering;adjudication ouverte;2;0;0
+622;selective tendering;adjudication restreinte;2;0;0
+623;admixture;adjuvant;0;0;0
+624;venting, ventilation;aération;1;2;2
+625;overhead line;aérien (ligne aérienne);0;1;1
+626;flying club, aero-club;aéro-club;2;0;0
+627;evaporative condenser;aérocondenseur;0;0;0
+628;controlled aerodrome;aérodrome contrôlé;0;0;0
+629;alternate aerodrome;aérodrome de dégagement;0;0;0
+630;air terminal;aérogare;0;0;0
+631;all-carrier air terminal;aérogare banalisée;1;0;0
+632;A general ledger;Un grand livre de frais (comptabilité);0;0;0
+633;The management;La direction / la gestion d’une entreprise / l’administration / les cadres supérieurs / les dirigeants;0;0;0
+634;To convene;Se réunir / convoquer / organiser une réunion;1;0;0
+635;To cancel;Annuler une réunion, un rendez-vous;0;0;0
+636;To schedule an appointment;Fixer un rendez-vous;1;0;0
+637;The workload;La charge / quantité de travail;0;1;0
+638;The backlog;Le retard dans le travail;1;0;0
+639;An invoice;Facture;0;0;0
+640;A customer;Un client;1;0;0
+641;The patrons;La clientèle / les clients;1;0;0
+642;To make benefits / profits / money;Faire du profit;1;0;0
+643;A department / a division (US);Un service / rayon (magasin);1;0;0
+644;Small and medium companies;Petites et moyennes entreprises;2;0;0
+645;To run a business;Diriger une société;0;0;0
+646;Board members;Membres du conseil d’administration;0;0;0
+647;A minutes of a meeting;Un compte-rendu / un procès-verbal d’une réunion;0;0;0
+648;A board minutes;Un compte-rendu de la réunion du Conseil d’administration;1;0;0
+649;A statement (of account);Un procès-verbal / un relevé de compte;1;0;0
+650;To hold a conference; Tenir un congrès, une conférence;0;0;0
+651;To attend a workshop;Assister à un atelier;1;0;0
+652;Assets and liabilities;Crédit et débit;0;1;1
+653;A memorandum / a memo;Une note interne de service;3;0;0
+654;Office chores;Tâches de bureau;0;0;0
+655;Office supplies;Fournitures de bureau;0;0;0
+656;Stationery;Fournitures de bureau / papier à lettres / la papeterie;1;0;0
+657;The letterhead;L’en-tête (d’une lettre);0;0;0
+658;Letter paper;Papier à lettre;0;0;0
+659;A file / to file;Un dossier / classer les dossiers;0;0;0
+660;A binder / folder;Un classeur / chemise (folder);2;0;0
+661;A sheet protector;Une chemise transparente;2;0;0
+662;A file box;Une boîte de classement;1;0;0
+663;A customer file;Un dossier client;0;0;0
+664;To sort out;Trier;0;0;0
+665;To sort  the mail;Trier le courrier;2;0;0
+666;To tidy (up);Ranger / mettre en ordre / mettre de l’ordre;1;0;0
+667;To enclose;Joindre;2;0;0
+668;A bulletin board;Un tableau d’affichage;0;0;0
+669;A chart / a graph;Un tableau / un graphique;0;0;0
+670;A stapler;Une agrafeuse;0;0;0
+671;A staple;Une agrafe;0;1;1
+672;A glue stick;Un bâton de colle;0;0;0
+673;A copier / a copy machine;Une photocopieuse;0;0;0
+674;A fax machine;Un fax;3;0;0
+675;A correction fluid;Un correcteur liquide;1;0;0
+676;A calculator;Une calculatrice;0;0;0
+677; A pencil;Crayon à papier;0;0;0
+678;A colored (US) pencil / a coloured (GB) pencil;Un crayon de couleur;2;0;0
+679;A pen;Un stylo;0;0;0
+680;A highlighter;Un feutre;1;0;0
+681;An eraser (US) / a rubber (GB);Une gomme;0;0;0
+682; A paper clip;Un trombone;0;0;0
+683;A tack;Une punaise;2;0;0
+684;A lunch / coffee break;Une pause déjeuner / une pause café;1;0;0
+685;A shelf;Un rayon / une étagère;0;0;0
+686;A toll-free call;Un numéro vert;0;0;0
+687;Business hours;Heures de bureau;0;0;0
+688;A storage room;Un lieu de stockage, un dépôt;1;0;0
+689;Agenda / on the agenda;Ordre du jour / à l’ordre du jour;0;0;0
+690;An assignment / a task;Une mission / une tâche;0;0;0
+691;In bold (print);En (caractère) gras (écriture) / en gras;2;0;0
+692;A briefcase;Un porte-documents / une serviette;2;0;0
+693;A deadline;Une date limite, butoir;1;0;0
+694;A notebook;Un cahier;1;0;0
+695;A notepad;Un bloc-notes;0;0;0
+696;A pair of scissors;Un ciseau / une paire de ciseaux;2;0;0
+697;A drawer;Un tiroir;2;0;0
+698;A draft;Un brouillon;0;0;0
+699;Expenditures / spendings;Dépenses;0;0;0
+700;Expenditures and revenue;Dépenses et recettes;0;0;0
+701;A fan;Un ventilateur;1;0;0
+702;The directory;L’annuaire;1;0;0
+703;A parcel;Un colis;0;1;0
+704;A  pencil case / box;Une trousse;1;0;0
+705;Postage;Affranchissement;1;0;0
+706;A stamp;Un timbre;0;0;0
+707;A stamped envelop;Une enveloppe affranchie;0;0;0
+708;A registered letter with acknowledgement of receipt;Une lettre recommandée avec accusé de réception;0;0;0
+709;A  set square;Une équerre;0;0;0
+710;A protractor;Un rapporteur;0;0;0
+711;A wastebasket;Une corbeille à papier;0;0;0
+712;A form;Un formulaire;1;0;0
+713;Accounting / accountancy;Comptabilité;1;1;1
+714;Accounting department;Service de comptabilité;0;0;0
+715;An account;Un compte;2;0;0
+716;Accurate;Précis;0;0;0
+717;To afford/ I can afford it/ I can’t afford it;Se permettre (financièrement)/ je peux me le permettre/ je ne peux pas me le permettre;0;0;0
+718;To allocate;Allouer;0;0;0
+719;An approval;Un accord, une acceptation, une approbation;2;0;0
+720;Assets;Crédits / atouts (personne);0;0;0
+721;Assets and liabilities;L’actif et le passif;0;0;0
+722;A broker;Un courtier;0;0;0
+723;The balance;Le solde;0;0;0
+724;To bank a check;Déposer un chèque;0;0;0
+725;A bank statement;Un relevé bancaire;0;0;0
+726;Bankruptcy;Faillite;0;0;0
+727;To go bankrupt / to go bust (US);Faire faillite;1;0;0
+728;To cancel a check;Annuler un chèque;0;0;0
+729;To close down;Fermer définitivement  (entreprise);1;0;0
+730;Credit status;Situation financière en terme de crédit;0;0;0
+731;To edit a check;Modifier un chèque;0;0;0
+732;To file for bankruptcy;Déposer le bilan;0;0;0
+733;Assets and liabilities;Actifs et passifs;1;1;1
+734;A benefit;Un avantage;0;0;0
+735;A bid;Une offre;0;0;0
+736;The bottom line;Le résultat financier;0;0;0
+737;Charity / charities (plural);Les organisations caritatives;1;0;0
+738;The core market;Le marché principal;0;0;0
+739;Franchising agreement;Système de franchise / accord de franchise;1;0;0
+740;Change;La monnaie / l’appoint;0;0;0
+741;To charge;Facturer;1;0;0
+742;Cost effective;Rentable / bon rapport rendement-prix;0;0;0
+743;A currency;Une devise monétaire;0;0;0
+744;A deposit;Un acompte / une caution;0;0;0
+745;To donate;Faire un don;1;0;0
+746;To dissolve a company;Dissoudre une société;0;0;0
+747;An estimate;Un devis;0;0;0
+748;A figure;Un chiffre;1;0;0
+749;Funds;Les fonds monétaires;0;0;0
+750;Growth;La croissance économique;1;0;0
+751;Inaccurate;Imprécis;0;0;0
+752;Income;Revenu;0;0;0
+753;An instalment;Un versement (bancaire);0;0;0
+754;An investment;Un investissement;0;0;0
+755;An investor;Un investisseur;0;0;0
+756;A quarter;Un trimestre;0;0;0
+757;A remittance;Une remise / un versement;1;0;0
+758;A loan;Un prêt (bancaire);0;0;0
+759;A merger;Une fusion entre des entreprise;0;0;0
+760;An overdraft;Un découvert bancaire;0;1;0
+761;To be overdrawn;Être à découvert;1;0;0
+762;To be in the red;Être dans le rouge;0;0;0
+763;To overlook;Négliger;1;0;0
+764;Overhead (costs) (GB) / overheads (US);Frais généraux;0;0;0
+765;Overstated;Exagéré;0;0;0
+766;To provide funds;Fournir des fonds (subventionner);0;0;0
+767;Premium products;Produit de prestige;0;1;1
+768;Profitable;Rentable;0;0;0
+769;Quoted;Coté en bourse;0;0;0
+770;A quote;Une cote (bourse);1;0;0
+771;To quote;Coter (en bourse);0;0;0
+772;Revenue; Les recettes;1;1;0
+773;Savings account;Compte épargne;0;0;0
+774;A share / a stock option;Un part / une action boursière;2;0;0
+775;A shareholder / a stockholder;Un actionnaire;1;0;0
+776;To skyrocket;Monter en flèche;0;0;0
+777;The Stock Exchange;La Bourse;0;1;0
+778;To subsidize;Subventionner;3;0;0
+779;Sustainable development;Développement durable;0;0;0
+780;To streamline;Rationaliser;2;0;0
+781;To subsidize;Subventionner;1;0;0
+782;To take over;Racheter / reprendre une entreprise;0;0;0
+783;The turnover;Le chiffre d’affaire;1;1;0
+784;To take over a company;Prendre le contrôle d’une société;2;0;0
+785;A treasurer;Un trésorier;1;1;0
+786;Valuables;Objets de valeur;1;0;0
+787;To withdraw money;Retirer de l’argent;1;0;0
+788;Winding up;Liquidation d’une société;1;0;0
+789;Winnings;Gains;0;0;0
+790;A 4-wheel drive;Un 4×4;0;0;0
+791;A baggage handler;Un bagagiste;2;0;0
+792;A barge;Une péniche;1;0;0
+793;A beltway/bypass/ringroad;Un périphérique/une rocade;0;0;0
+794;A bonnet/hood (GB);Un capot;0;0;0
+795;A bumper;Un pare-chocs;0;0;0
+796;A bus ride;Un voyage en bus;0;0;0
+797;A bus shelter;Un abris bus;0;1;0
+798;A cab;Un taxi;0;0;0
+799;A cabin attendant;Un membre d’équipage;1;0;0
+800;A cancellation/to cancel;Une annulation/annuler;2;1;1
+801;A car retailer;Un concessionnaire  (voitures);0;1;1
+802;A car service;Un service de voiturage;0;0;0
+803;A car share scheme / incentive;Un programme de co-voiturage;0;1;0
+804;A cargo ship;Un navire de marchandises;0;0;0
+805;A carrier;Un transporteur;0;0;0
+806;A coach;Un car;0;0;0
+807;A connecting flight;Un vol de/en correspondance;1;1;1
+808;A conveyor belt;Un tapis roulant;1;0;0
+809;A crew;Un équipage;0;0;0
+810;A cruise ship;Un bâteau de croisière;1;0;0
+811;A delay/ to delay;Un retard/retarder;1;0;0
+812;A driveway;Une allée privée;0;0;0
+813;A fare;Un prix (transports);2;0;0
+814;A ferry;Un transbordeur/bac;0;0;0
+815;A fine/ticket;Une amende/un PV;0;0;0
+816;A flight;Un vol;0;0;0
+817;A free rental of city bikes;Une location gratuite de vélos de ville;0;0;0
+818;A freight;Un fret, une marchandise;0;0;0
+819;A gangway;Une passerelle;0;0;0
+820;A gear shift (US)/gear stick (GB);Un levier de vitesse;1;0;0
+821;A harbor;Un port;1;0;0
+822;A high speed train;Un Train à Grande Vitesse (TGV);2;0;0
+823;A highway (US)/motorway (GB);Une autoroute;0;0;0
+824;A journey;Un voyage;1;0;0
+825;A lane;Une voie;1;0;0
+826;A liner;Un paquebot;1;0;0
+827;A means of transportation;Un moyen de transport;2;1;0
+828;A motorbike/bike;Une motocyclette/moto;1;0;0
+829;A park-and-ride scheme;Un parking de relais;1;1;0
+830;A path;Un chemin;0;0;0
+831;A pedestrianized street;Une rue piétonne;0;0;0
+832;A petrol gauge;Une jauge à essence;0;1;0
+833;A pier;Une jetée;0;0;0
+834;A plane crash;Un accident d’avion;0;0;0
+835;A platform;Un quai (train);1;0;0
+836;A pocket thief (thieves);Un pique-pocket;0;0;0
+837;A public transport;Un transport public;0;0;0
+838;A quay;Un quai (bateau);0;0;0
+839;A racecar driver;Un conducteur de voiture de course;0;0;0
+840;A railroad/railway tracks;Une voie ferrée;1;0;0
+841;A railway;Un chemin de fer;0;0;0
+842;A riverboat;Un bateau (pour le transport fluvial);0;0;0
+843;A road;Une route;0;0;0
+844;A rocketship;Une fusée spatiale;1;0;0
+845;A row;Une rangée;0;0;0
+846;A runway;Une piste (d’aéroport);0;0;0
+847;A seat belt;Une ceinture de sécurité;1;0;0
+848;A sedan;Une berline;0;0;0
+849;A shortcut;Un raccourci;0;1;1
+850;A shuttle;Une navette;0;0;0
+851;A speed limit;Une limite de vitesse;0;0;0
+852;A station wagon;Un break;0;0;0
+853;A steering wheel;Un volant;0;0;0
+854;A subway (US)/ an underground (GB//tube (GB)/ metro;Un métro;1;0;0
+855;A tarmac;Un tarmac (où les avions se garent);0;0;0
+856;A terminal;Un terminal;1;0;0
+857;A tire (US)/tyre (GB);Un pneu;0;0;0
+858;A traffic jam;Un embouteillage;2;0;0
+859;A traffic light;Un feu de signalisation;1;1;1
+860;A tramway/a tram;Un tramway;0;0;0
+861;A travel;Un voyage (fait de voyager);0;0;0
+862;A trip;Un voyage;1;0;0
+863;A trolley;Un chariot;0;0;0
+864;A truck (US)/lorry (GB);Un camion;1;0;0
+865;A trunk (US) /a boot (GB);Un coffre;0;0;0
+866;A van;Un van;0;0;0
+867;A vehicle enthusiast;Un passionné de véhicules;0;0;0
+868;A voyage;Un voyage;0;1;0
+869;A wheel;Une roue;1;0;0
+870;A windshield;Un pare-brise;1;0;0
+871;Accuracy;Précision;2;0;0
+872;An aircraft/airplane;Un avion;1;0;0
+873;An airline;Une compagnie aérienne;0;0;0
+874;An airliner;Un avion de ligne;0;0;0
+875;An aisle;Un couloir/une allée;1;0;0
+876;An elevator (US)/A lift (GB);Un ascenseur;0;0;0
+877;An exhaust pipe;Un pot d’échappement;2;1;1
+878;An on-board service;Un service à bord;1;1;1
+879;An online check-in;Un enregistrement en ligne;1;0;0
+880;Autobahn racing;Course sur l’autoroute;0;0;0
+881;Car pool;Co-voiturage;1;0;0
+882;Commercial goods;Biens commerciaux;1;0;0
+883;Complimentary;Gratuit;2;0;0
+884;Congestion;Embouteillage;0;0;0
+885;Consistent;Cohérent;0;0;0
+886;Convenient;Pratique;1;0;0
+887;Cost effective;Rentable;0;0;0
+888;Crammed;Plein à craquer;1;0;0
+889;Exhaust fumes;Gaz d’échappement;0;0;0
+890;Front;Devant;1;0;0
+891;Greenhouse gas emissions;Gaz à effet de serre;1;0;0
+892;Ground/land transportation;Transport terrestre;0;0;0
+893;Overcrowded;Bondé;0;0;0
+894;Peak hours/rush hours;Heure de pointe;1;0;0
+895;Rear;Arrière;1;0;0
+896;Reliable;Fiable;0;0;0
+897;The customs;La douane;0;0;0
+898;To be behind time;Etre en retard (par rapport à ce qui était prévu);2;0;0
+899;To be congested;Etre embouteillé;0;0;0
+900;To be held up by roadworks/diversions/ accidents;Etre coincé par les travaux, diversions, accidents;1;0;0
+901;To be jet lagged;Souffrir du décalage horaire;2;0;0
+902;To be stuck in traffic jam/congestion;Etre coincé dans les embouteillages;1;0;0
+903;To be towed;Etre remorqué;2;0;0
+904;To book a rental;Faire une réservation de location;2;0;0
+905;To break down (vehicle);Tomber en panne;1;0;0
+906;To capsize;Chavirer;1;0;0
+907;To cling to a wall;S’accrocher à un mur;0;0;0
+908;To commute;Faire des allers retours entre le travail et chez soi;1;2;1
+909;To cut down on expenses;Réduire ses dépenses;1;1;1
+910;To disembark;Débarquer;0;0;0
+911;To do village-skirting;Visiter les villages sur la route;2;0;0
+912;To drive off;S’éloigner;0;0;0
+913;To drive through (a forest);Conduire à travers (une forêt);0;0;0
+914;To drop someone off;Déposer quelqu’un;1;0;0
+915;To fill up;Remplir, faire le plein;0;0;0
+916;To get around;Bouger, voyager;1;0;0
+917;To get on/off;Monter/descendre;1;0;0
+918;To go by bus/car/plane…;Aller par bus/voiture/avion;1;0;0
+919;To go on a cruise;Faire une croisière;0;0;0
+920;To go on foot;Aller à pied;0;0;0
+921;To hire a vehicle;Louer un véhicule;0;0;0
+922;To land;Atterrir;0;0;0
+923;To lift a car;Soulever une voiture;2;0;0
+924;To load/unload;Charger/décharger;1;0;0
+925;To miss a flight;Rater un vol;2;0;0
+926;To miss one’s connection;Rater une correspondance;1;0;0
+927;To outweigh;Dépasser;0;0;0
+928;To pick someone up;Aller chercher quelqu’un;1;0;0
+929;To pick up a car;Aller chercher une voiture;1;0;0
+930;To punch ( a ticket);Composter (un billet);0;0;0
+931;To roam;Traîner;2;0;0
+932;To row;Ramer;1;1;0
+933;To sail;Faire de la voile;0;0;0
+934;To sink;Couler;1;0;0
+935;To slow down;Ralentir;1;0;0
+936;To spin across;Tourner autour;2;0;0
+937;To take off;Décoller;0;0;0
+938;To take the lead;Prendre l’initiative, les commandes;0;0;0
+939;To dial a number;Composer un numéro de téléphone;1;0;0
+940;The dial;Le cadran;0;1;0
+941;The extension;Le poste téléphonique d'un correspondant;0;0;0
+942;To be on the phone;Être au téléphone;0;0;0
+943;A cell / self / mobile phone;Un mobile / téléphone portable;0;0;0
+944;The dial (tone);La tonalité;0;0;0
+945;The voice mail;La boîte vocale;0;0;0
+946;The cord;Le fil du téléphone;0;0;0
+947;The receiver;Combiné téléphonique;0;0;0
+948;A switchboard;Panneau, tableau de distribution, standard;0;1;1
+949;A browser;Un navigateur (internet);1;0;0
+950;A bubblejet printer;Une imprimante à bulle;0;0;0
+951;A chat group;Un forum de discussion;0;0;0
+952;A complimentary portable disc player;Un lecteur de disque portable gratuit;3;0;0
+953;A cordless mouse;Un souris  sans -fil;1;0;0
+954;A cordless headphones;Un casque sans-fil;0;0;0
+955;A cybernaut;Un internaute / un cybernaute;1;0;0
+956;A database;Une base de données;0;0;0
+957;A datum (singulier);Une donnée;1;0;0
+958;A desktop computer;Un ordinateur de bureau;0;0;0
+959;A developer;Un développeur;2;0;0
+960;A disk drive;Un lecteur de disquette;0;0;0
+961;A firewall;Un pare-feu / une barrière de sécurité;0;0;0
+962;A flat screen;Un écran plat;0;0;0
+963;A freeware;Un logiciel gratuit;1;0;0
+964;A gambling site;Un site de jeux;1;0;0
+965;A jam (of paper);Un bourrage de papier;0;0;0
+966;A key;Une touche (du clavier);2;0;0
+967;A keyboard;Un clavier;2;0;0
+968;A keyboard shortcut;Un raccourci (clavier);1;1;0
+969;A laptop;Un ordinateur portable;1;0;0
+970;A laser printer;Une imprimante laser;1;0;0
+971;A login;Un nom utilisateur;0;0;0
+972;A network;Un réseau;1;0;0
+973;A password;Un mot de passe;0;0;0
+974;A personal digital assistant;Un agenda électronique;0;0;0
+975;A portfolio (of clients, of softwares);Un portefeuille (de clients, de logiciels);0;0;0
+976;A printer;Une  imprimante / un imprimeur (personne);0;0;0
+977;A projector;Un projecteur;0;0;0
+978;A resource box;Une boîte à ressources;1;0;0
+979;A screen;Un écran;0;0;0
+980;A screen  / monitor;Un écran;1;0;0
+981;A search engine;Un moteur de recherche;0;0;0
+982;A software [uncountable] – Software program, application, solution…;Un logiciel;0;0;0
+983;A spreadsheet;Un tableur;1;0;0
+984;A supply firm;Un fournisseur, une société d’approvisionnement;1;0;0
+985;A tablet;Une tablette;0;0;0
+986;A toner cartridge;Une cartouche de toner;1;0;0
+987;A toolbar;Une barre d’outil;0;0;0
+988;A touch screen;Un écran tactile;1;0;0
+989;A USB key/memory stick;Une clé USB;2;0;0
+990;A webmaster;Un administrateur réseau;0;0;0
+991;A website;Un site internet;1;0;0
+992;A wireless connection;Une connexion sans fil;0;0;0
+993;A word processor;Un logiciel de traitement de texte;1;0;0
+994;An  overnight mail;Un courrier qui arrive  le lendemain;0;0;0
+995;An access provider;Un fournisseur d’accès;1;0;0
+996;An email address;Une adresse électronique;1;0;0
+997;An ink cartridge;Une cartouche d’encre;0;0;0
+998;An ink-jet printer;Une imprimante à jet d’encre;0;0;0
+999;An update;Une mise à jour;2;0;0
+1000;Back-end technologies;Des technologies d’arrière plan;0;0;0
+1001;Bookmarks;Signets;0;0;0
+1002;Data  (pluriel);Les données informatiques;0;1;0
+1003;Data processing;Traitement de données informatiques;0;0;0
+1004;Digital;Numérique , à affichage numérique;0;0;0
+1005;Hardware;Matériel informatique;1;1;0
+1006;Internet access;Accès internet;0;0;0
+1007;Online coverage;Couverture en ligne;0;0;0
+1008;Streamed video;Vidéo/clip diffusé en continu;0;0;0
+1009;The data is good;Les données sont bonnes;1;0;0
+1010;The internet;Internet;1;0;0
+1011;The loudspeakers;Les baffles;1;0;0
+1012;The mouse;La souris;0;1;0
+1013;The software is…;Les logiciels sont…;0;0;0
+1014;To be an expert at + noun/verb ING;Etre un epxert en;0;0;0
+1015;To be likely to do something;Avoir des chances de faire quelque-chose (probabilité);0;0;0
+1016;To browse the internet;Naviguer sur internet;0;0;0
+1017;To download;Télécharger depuis le serveur;0;0;0
+1018;To log on /off;Se connecter / se déconnecter;1;0;0
+1019;To plug in /out (unplug : pull out the plug);Brancher / débrancher;1;0;0
+1020;To process;Traiter (commande, candidature, dossier, données informatiques);2;0;0
+1021;To provide/supply;Fournir;0;0;0
+1022;To surf the net;Surfer sur internet / la toile (the web);0;1;0
+1023;To swipe;Insérer/passer dans un lecteur;3;0;0
+1024;To turn on/off a computer;Allumer/éteindre un ordinateur;1;0;0
+1025;To type;Taper , dactylographier;0;0;0
+1026;To update a site;Mettre à jour un site internet;1;0;0
+1027;To upgrade;Ajouter de la mémoire à un ordinateur;0;1;1
+1028;To upload;Télécharger vers le serveur / mettre en ligne;0;0;0
+1029;Traffic increase;L’augmentation du trafic;0;0;0
+1030;Typing error (informal: typo);Faute de frappe;1;0;0
+1031;Useful information;Informations utiles;0;0;0
+1032;To sell;Vendre;1;0;0
+1033;To buy / to purchase;Acheter;3;1;1
+1034;To get / receive (a letter, parcel);Obtenir / recevoir une lettre / colis;0;0;0
+1035;To send;Envoyer;0;0;0
+1036;To dispatch (a parcel / an  order);Envoyer / expédier un colis / commande;1;0;0
+1037;To ship;Expédier (par mer / par bateau), charger / embarquer;0;0;0
+1038;To load;Charger (cargaison);0;1;1
+1039;To unload;Décharger (cargaison);1;0;0
+1040;To charter;Affréter;0;0;0
+1041;A charter plane;Un avion charter;0;0;0
+1042;Purchasing power;Pouvoir d'achat;0;0;0
+1043;A sales policy;Une politique de vente;3;0;0
+1044;Sales /sellings;Les ventes;2;0;0
+1045;Purchases;Les achats;1;0;0
+1046;Selling price;Prix de vente;0;0;0
+1047;Trade;Le commerce / le négoce / les échanges commerciaux;3;0;0
+1048;For sale;À vendre;1;0;0
+1049;On sale;en solde;1;0;0
+1050;An order form;Un bon de commande;0;0;0
+1051;A receipt;Un reçu;0;0;0
+1052;Upon receipt of invoice;A  réception de la facture;1;0;0
+1053;A retailer;Un détaillant;1;0;0
+1054;The retail sales;Les ventes au détail;0;0;0
+1055;A wholesaler;Un grossiste / marchand de gros;0;0;0
+1056;A dealer;Un concessionnaire / marchand;1;1;1
+1057;A rebate;Une ristourne;0;0;0
+1058;A discount;Réduction / rabais;1;0;0
+1059;Mail order (sale);Vente par correspondance;0;1;1
+1060;To pay in full;Régler toute la facture : payer comptant;0;0;0
+1061;A display;Un présentoir / étal;4;0;0
+1062;A shopping  mall / shopping center;Un centre commercial / une galerie marchande;1;0;0
+1063;The amount;Le montant;1;0;0
+1064;A bid;Une offre;1;0;0
+1065;A takeover bid;Une offre publique d'achat;0;0;0
+1066;Billing;La facturation;1;0;0
+1067;To charge;Facturer / faire payer;1;0;0
+1068;To charge for;Prendre (monétairement);0;0;0
+1069;Charges;Frais, prix, coûts;1;0;0
+1070;Commodity;Marchandise / produit/ denrée;0;0;0
+1071;A consignment;Un arrivage / envoi (de marchandises);0;0;0
+1072;To deliver;livrer;1;1;1
+1073;Delivery;Livraison;1;0;0
+1074;To dispatch;Expédier;0;0;0
+1075;A draft;Une traite;4;0;0
+1076;Handling;Manutention;0;0;0
+1077;In bulk;En vrac;0;0;0
+1078;To buy in bulk;Acheter en gros;0;0;0
+1079;An invoice;Une facture;0;0;0
+1080;An item;Un article;1;0;0
+1081;A lorry;Un camion;2;0;0
+1082;The mailman (US) / postman (GB);Le facteur;0;0;0
+1083;An order;Une commande;0;1;1
+1084;To order;Commander;1;0;0
+1085;To place an order (GB);Passer une commande;0;0;0
+1086;To put in an order (US);;0;0;0
+1087;To process an order;Traiter une commande;0;0;0
+1088;Out of stock;En rupture de stock;1;0;0
+1089;The storage room;La réserve / espace de stockage;0;0;0
+1090;A package;Un paquet / lot ;0;0;0
+1091;A parcel;Un colis;0;0;0
+1092;A quotation /  an estimate;Un devis;0;0;0
+1093;A registered mail;Un courrier recommandé;0;0;0
+1094;A shipment;Une expédition;2;0;0
+1095;To unload;Décharger (camion);1;1;0
+1096;To Unpack;Déballer;1;0;0
+1097;To wrap;Emballer;1;0;0
+1098;Packaging;L'empaquetage;1;0;0
+1099;A fleet of vehicles;Un parc de véhicules;1;0;0
+1100;An attorney (US) / a lawyer (US);Un avocat;0;1;0
+1101;Attorney General (US);Procureur général;1;0;0
+1102; A Barrister (GB);Un avocat plaidant (barre);0;0;0
+1103;A solicitor (GB);Un avocat / un notaire;1;0;0
+1104;A case;Une affaire;0;0;0
+1105;A trial;Un procès;1;0;0
+1106;Guilty;Coupable;1;0;0
+1107;To plead;Plaider;1;0;0
+1108;To prosecute / to sue (US);Poursuivre  (en justice) / intenter un procès;0;0;0
+1109;To testify;Témoigner;0;0;0
+1110;A witness;Un témoin;0;0;0
+1111;A case law;une jurisprudence;0;1;1
+1112;Civil law;Droit civil;3;0;0
+1113;A claim; Une affirmation / déclaration;2;1;1
+1114;A clue;Un indice / piste;1;0;0
+1115;Common law;Le droit coutumier;0;0;0
+1116;A criminal record;Un casier judiciaire;0;0;0
+1117;The defendant;L’accusé;0;0;0
+1118;Defence;La défense;2;0;0
+1119;Evidence;Les preuves;0;0;0
+1120;The evidence is…;Les preuves sont…;0;0;0
+1121;An inspector;Un inspecteur;0;0;0
+1122;An investigation;Une enquête;0;0;0
+1123;A judge;Un juge;0;0;0
+1124;A juror;Un juré;0;0;0
+1125;Jury;Les jurés;1;0;0
+1126;A law clerk;Un greffier;1;0;0
+1127;A lawmaker;Un législateur;2;0;0
+1128;Legal fees;Honoraires;0;0;0
+1129;Life sentence;Prison à vie;2;0;0
+1130;An offense;Une infraction, un délit;0;0;0
+1131;A sentence;Une peine;0;0;0
+1132;A settlement;Une décision de justice / un accord;0;0;0
+1133;A theft;Un vol;1;0;0
+1134;A thief;Un voleur;1;0;0
+1135;To be on trial for;Être jugé pour;0;0;0
+1136;To be under arrest;Être en état d’arrestation;3;0;0
+1137;Average earnings; Gains moyens;0;0;0
+1138;Fiscal year;Année fiscale;0;0;0
+1139;Local taxes;Impôts locaux;1;0;0
+1140;Rates;Taxes;0;0;0
+1141;Taxes / taxation;Impôts;0;0;0
+1142;Tax stamp;Timbre fiscal;1;0;0
+1143;Tax adjustment;Redressement fiscal;0;0;0
+1144;A Tax heaven; Un paradis fiscal;1;0;0
+1145;Tax system;Fiscalité;1;0;0
+1146;The inland revenue;Le service des impôts;1;0;0
+1147;To launch a product onto the market;Lancer un produit  sur le marché;0;1;1
+1148;A brand;Une marque (commerciale) d'un produit;0;1;0
+1149;A (registered) trade mark;Une marque déposée;0;0;0
+1150;Specifications;Le cahier des charges;1;0;0
+1151;A range / line of products;Une gamme / choix / éventail de produits;0;0;0
+1152;To reach a goal;Atteindre un but / objectif;0;0;0
+1153;To meet a deadline;Respecter un délai / une date limite;0;0;0
+1154;A target / an audience target;Une cible / un public ciblé;0;1;1
+1155;A tip;Un conseil / tuyau;0;0;0
+1156;Market studies;Études de marché;1;0;0
+1157;A research department;Un bureau d'étude;0;0;0
+1158;Consumer behaviour (GB) / behavior (US);Comportement du consommateur;2;0;0
+1159;Distribution channel;Canal / circuit / chaîne de distribution;1;0;0
+1160;A call center;Un centre d'appel;0;0;0
+1161;A sample;Un échantillon;0;0;0
+1162;A market share;Une part de marché;1;0;0
+1163;To conduct a poll / survey;Faire faire un sondage / une enquête;0;0;0
+1164;Bonus scheme;Système de primes;1;0;0
+1165;Packing slip;Bordereau de livraison;0;0;0
+1166;Receiving report;Bordereau de réception;2;1;1
+1167;Storage cost;Coût de stockage;0;0;0
+1168;Valued Added Tax;Taxe sur la valeur ajoutée;1;0;0
+1169;Valued added;Valeur ajoutée;1;0;0
+1170;Value chain;Chaîne de valeur;0;0;0
+1171;Work force;effectifs;1;0;0
+1172;Work load;Charge de travail;2;0;0
+1173;Working hours;Heures de travail;0;0;0
+1174;A benchmark;Un point de référence / un test de performance / un banc d'essai;1;0;0
+1175;A blueprint;Un projet / plan;0;0;0
+1176;Advertisement;Annonce publicitaire;1;1;1
+1177;Advertising campaign;Campagne de publicité;1;0;0
+1178;Advertising agency;Agence de publicité;0;0;0
+1179;Outdoor advertising;Publicité extérieure;1;0;0
+1180;A booklet;Une brochure;1;0;0
+1181;A leaflet;Un dépliant;1;0;0
+1182;A catalogue;Un catalogue;0;1;1
+1183;The consumer;Le consommateur;0;0;0
+1184;The consumer society;La société de consommation;1;0;0
+1185;A brand;Une marque;2;0;0
+1186;A global brand;Une marque mondiale;0;1;0
+1187;Market leader;Leader du marché;1;0;0
+1188;Marketing survey;Étude de marché;1;0;0
+1189;Marketing manager;Directeur responsable du marketing;0;0;0
+1190;Marketing team;Équipe commerciale;1;0;0
+1191;Packaging;Conditionnement, emballage;2;0;0
+1192;A press release;Un communiqué de presse;0;0;0
+1193;A product range;Une gamme de produit;1;0;0
+1194;Public relations;Relations Publiques;0;0;0
+1195;Royalty / copyrights;Droits d’auteurs;0;0;0
+1196;Sales representative;Représentant de commerce;0;0;0
+1197;A supply;Une offre;1;0;0
+1198;A study;Une étude;1;1;0
+1199;To target a customer;Cibler un client;1;0;0
+1200;A trend;Une tendance;0;0;0
+1201;Human resources manager;Directeur des ressources humaines;0;0;0
+1202;Chief Executive Manager (CEO);Président Directeur Général;0;0;0
+1203;Chief Administrative Officer;Directeur Administratif;0;0;0
+1204;Chief Operating Officer;Directeur de l’exploitation;0;1;1
+1205;A job;Un emploi;1;0;0
+1206;A work;Un travail;1;0;0
+1207;Work;L’emploi (en général) / le travail;0;0;0
+1208;Employment contrat;Un  contrat de travail;0;0;0
+1209;A fixed-term contract;Un CDD;2;1;0
+1210;A permanent / unlimited-term contract;Un CDI;1;0;0
+1211;Job advertisement;Annonce d’emploi;0;0;0
+1212;Job center;Agence pour l’emploi;1;0;0
+1213;Job seeker;Chercheur d’emploi;0;0;0
+1214;Company day nursey;Crèche d’entreprise;0;0;0
+1215;A position;Un poste;0;0;0
+1216;A posting;Une affectation (poste);1;0;0
+1217;A transfer;Une mutation;2;0;0
+1218;A promotion;Un avancement;0;0;0
+1219;Promotion on seniority;Avancement à l’ancienneté;0;0;0
+1220;A executive;Un cadre;3;0;0
+1221;A  top (US) / senior (GB) executive;Un cadre supérieur;0;0;0
+1222;Middle manager;Cadre moyen;0;0;0
+1223;A work team;Une équipe de travail;1;0;0
+1224;A sales manager;Chef de vente;0;0;0
+1225;Department Head;Chef de service;0;1;0
+1226;Department head / Department supervisor;Chef de rayon / chef de service;0;0;0
+1227;A floor manager;Chef de groupe;1;0;0
+1228;A boss;Un patron;3;0;0
+1229;Managing Director;Directeur général;1;0;0
+1230;A clerical worker;Un employé de bureau;0;0;0
+1231;A temp / a temporary worker;Un travailleur temporaire;0;0;0
+1232;To temp;Faire du travail intérimaire;0;0;0
+1233;An apprentice;Un apprenti;3;1;0
+1234;Apprenticeship;Apprentissage;4;0;0
+1235;A new hire;Un nouvel employé;0;0;0
+1236;An employee;Un employé;0;1;0
+1237;An employer;Un employeur;1;0;0
+1238;An identification badge;Un badge d’identité;1;0;0
+1239;To clock in;Pointer (en arrivant dans l’entreprise);1;0;0
+1240;To clock out;Pointer (en quittant l’entreprise);1;0;0
+1241;The staff (singular) is…;Le personnel, les employés sont…;0;0;0
+1242;Staff attendance;Présence du personnel;1;0;0
+1243;An expense report;Note de frais;0;0;0
+1244;A resume;Un CV (Curriculum vitae);0;0;0
+1245; A covering / cover letter;Une lettre de motivation;1;0;0
+1246;Credentials;Références sur le CV;0;1;1
+1247;Skills, abilities;Aptitudes, capacités , compétences;0;0;0
+1248;To hire / sign up / take on (familiar) somebody;Recruter , embaucher quelqu’un;2;0;0
+1249;To lay somebody off;Licencier quelqu’un;0;0;0
+1250;To dismiss;Congédier, renvoyer quelqu’un;2;0;0
+1251;To sack, fire somebody;Mettre quelqu’un à la porte;1;0;0
+1252;A pink slip;Formulaire / lettre de licenciement;1;0;0
+1253;Termination date;Date de licenciement;0;1;1
+1254;Outplacement;Aide au reclassement après un licenciement de la part de l’employeur, insertion professionnelle;0;0;0
+1255;To resign;Démissionner;1;0;0
+1256;A resignation; Une démission (d’un poste);1;0;0
+1257;To quit a job;Quitter un emploi;1;0;0
+1258;Term of notice;Délai de préavis;0;0;0
+1259;To retire;Prendre la retraite;1;0;0
+1260;Retirement;Départ à la retraite;0;0;0
+1261;A want ad;Une petite annonce;0;0;0
+1262;A job offer;Une offre d’emploi;2;0;0
+1263;To apply for a job;Candidater / poser sa candidature / postuler à une offre d’emploi;1;0;0
+1264;An application;Une candidature;1;0;0
+1265;An applicant; Un candidat;1;0;0
+1266;A job interview;Un entretien d’embauche;1;0;0
+1267;A contractor; Entrepreneur (entreprise), un contractuel;2;0;0
+1268;A free-lancer;Un travailleur indépendant;2;0;0
+1269;To work freelance;Travailler à son compte;1;0;0
+1270;Reduction in force;Plan social;1;0;0
+1271;Wages;Solde, salaire (payé à l’heure);4;0;0
+1272;Wage freeze;Gel de salaire;0;0;0
+1273;Salary;Salaire / traitement payé au mois / à l’année;1;0;0
+1274;Pay slip;Feuille de salaire;2;0;0
+1275;Salary scale / Pay grid;Grille des salaires;0;0;0
+1276;Salary rise;Hausse de salaire;2;0;0
+1277;Perks;Avantages additionnels au salaire;0;0;0
+1278;A bonus / an incentive;Une prime de rendement;0;0;0
+1279;A signing bonus;Une prime d’embauche;1;0;0
+1280;A bar chart;Un histogramme;1;0;0
+1281;A chart;Un graphique, diagramme;1;0;0
+1282;A table;Un tableau;0;0;0
+1283;An appointment;Un rendez-vous;0;1;1
+1284;An interview;Un entretien;0;1;0
+1285;A meeting point;Un point de rencontre;0;0;0
+1286;A minutes;Un compte rendu;1;0;0
+1287;A report;Un bilan / un rapport / un compte rendu;2;0;0
+1288;To add the agenda;Ajouter à l’ordre du jour;0;0;0
+1289;To arrange a meeting;Organiser un rendez-vous;1;0;0
+1290;To convene  a meeting;Convoquer à une réunion;1;0;0
+1291;To hold a meeting;Tenir une réunion;0;0;0
+1292;To resume;Reprendre;1;1;1
+1293;To schedule;Planifier  /programmer;0;0;0
+1294;To do overtime / to work extra time;Faire des heures supplémentaires;0;0;0
+1295;Telecommuting;Travail chez soi / à distance;1;0;0
+1296;To telecommute;Télétravailler : travailler à distance;0;0;0
+1297;Voluntary work;Bénévolat;2;0;0
+1298;A volunteer;Un bénévole;0;0;0
+1299;To volunteer;Faire du bénévolat;0;0;0
+1300;To be shortlisted;Être sélectionné (candidat);1;0;0
+1301;Work experience;Expérience professionnelle;0;0;0
+1302;A blue collar;Un col bleu;2;0;0
+1303;A white collar;Un col blanc;0;1;1
+1304;Manpower / Laborforce (US) / Workforce;Main d’œuvre;0;1;1
+1305;Board;Conseil;0;0;0
+1306;Boardroom;Salle du conseil;0;0;0
+1307;Board of Directors;Conseil d’administration;0;0;0
+1308;Works council;Comité d’entreprise;1;0;0
+1309;A company;Une société / entreprise;1;0;0
+1310;A company car;Une voiture de fonction;3;0;0
+1311;A firm;Une entreprise;0;0;0
+1312;A law firm;Cabinet d’avocat;0;0;0
+1313;A corporation;Une société;1;0;0
+1314;A factory;Une usine / fabrique / manufacture;0;0;0
+1315;A branch;Succursale, agence (agency);0;0;0
+1316;A subsidiary (company);Une filiale;1;0;0
+1317;A private limited company;Une SARL;0;0;0
+1318;A public limited company;Une société anonyme;0;0;0
+1319;A multinational;Une multinationale;0;0;0
+1320;The headquarters;Le siège (d’une entreprise) /direction générale;0;0;0
+1321;A merger;Une fusion;0;0;0
+1322;A  joint venture;Une entreprise commune;0;0;0
+1323;A takeover;Un rachat, absorption, reprise;1;0;0
+1324;The factory floor;L’usine / les ouvriers / l’atelier;0;0;0
+1325;On the factory floor;Dans les ateliers;0;1;1
+1326;A workshop;Un atelier;1;0;0
+1327;A (nuclear) plant;Une usine nucléaire;0;0;0
+1328;An assembly plant;Une usine de montage;1;0;0
+1329;An assembly line;Une chaîne de montage;0;0;0
+1330;To work in shifts;Travailler en trois huit;2;1;1
+1331;The day / night shift;Équipe de jour / poste de jour / équipe de nuit;0;0;0
+1332;To be suitable for;Convenir à, être convenable à;0;0;0
+1333;To subcontract;Sous-traiter;1;0;0
+1334;To outsource;Délocaliser / externaliser / sous-traiter;0;0;0
+1335;Outsourcing;Sous-traitance;0;0;0
+1336;Parts;Pièces détachées;3;0;0
+1337;To revamp;Restructurer (entreprise);2;0;0
+1338;Industry;Industrie, secteur;1;1;1
+1339;A helmet;Un casque;3;0;0
+1340;A site;Un chantier;0;0;0
+1341;A gap year;Une année sabbatique;1;0;0
+1342;An appendix;Une annexe (document);1;0;0
+1343;An additional clause;Un avenant;0;1;1
+1344;Staff canteen;Cantine / restaurant d’entreprise;0;0;0
+1345;A career;Une carrière (emploi);3;0;0
+1346;A career plan;Un plan de carrière;0;0;0
+1347;Payroll charges;Charges salariales;0;1;0
+1348; Unemployment;Le chômage;1;0;0
+1349;Redundancy;Chômage économique / licenciement économique;1;0;0
+1350;To make somebody  redundant;Licencier  quelqu’un;0;0;0
+1351;Staff reduction;Compression/réduction des effectifs;0;0;0
+1352;A sick leave;Un congé maladie;1;0;0
+1353;A wage dispute;Conflit salarial;0;0;0
+1354;Paid vacation / paid leave;Congés payés;0;0;0
+1355;Relocation;Délocalisation;0;0;0
+1356;Malpractice;Faute professionnelle;1;0;0
+1357;Training;Formation;0;0;0
+1358;A training scheme;Un plan de formation;1;0;0
+1359;A Formative;Un formateur;0;1;1
+1360;Working hours;Heures de travail;1;0;0
+1361;Profit sharing;Intéressement;0;0;0
+1362;Company newsletter;Journal d’entreprise;1;0;0
+1363;Occupational Health Doctor;Médecin du travail;0;0;0
+1364;To graduate  from;Être diplômé de;0;1;1
+1365;Trial Period;Période d’essai;0;0;0
+1366;The turnover;Le chiffre d’affaires;0;0;0
+1367;Real estate;L'immobilier;1;0;0
+1368;Public Utility;Service Public;1;0;0
+1369;To move out;Déménager;0;0;0
+1370;To move in;Emménager;2;0;0
+1371;A hall / corridor;Un couloir;1;1;1
+1372;An acquisition;Un achat;0;0;0
+1373;To own;Posséder;0;0;0
+1374;The owner;Le propriétaire;0;0;0
+1375;To rent /to let;Louer;1;0;0
+1376;A renter;Un locataire;0;1;1
+1377;A rental agreement;Un contrat de location;2;0;0
+1378;A 30-day notice;Un préavis de 30 jours;0;0;0
+1379;A deposit;Une caution;0;0;0
+1380;The premises / facilities;Les locaux / lieu de travail;0;0;0
+1381;A factory;Une usine / une fabrique;0;0;0
+1382;A manufacturer;Un fabricant;1;0;0
+1383;An industrialist;Un industriel;0;0;0
+1384;Automation;Automatisation;0;0;0
+1385;A company;Une société;0;0;0
+1386;Corporate life;La vie d'entreprise;0;0;0
+1387;Consumer goods;Biens de consommation;0;0;0
+1388;Efficiency;Rendement (machine);3;0;0
+1389;the output;Le rendement / production (machine, travailleur);1;0;0
+1390;Smokestack industry;Industrie lourde;2;0;0
+1391;A smokestack;Une cheminée;1;0;0
+1392;Handling;La manutention;1;0;0
+1393;tooling;L'outillage;0;0;0
+1394;Maintenance;Maintenance;0;0;0
+1395;A  (nuclear) plant;Une usine (nucléaire);0;0;0
+1396;Raw material;Matières premières;0;0;0
+1397;A release;Un lancement / sortie d'un produit;2;0;0
+1398;A skilled worker;Un ouvrier qualifié;0;0;0
+1399;Spare parts;Pièces de rechange;0;0;0
+1400;A store  floor;Un atelier;0;0;0
+1401;A supplier;Un fournisseur;1;1;0
+1402;The construction industry;Le secteur de la construction;1;1;0
+1403;The motor industry;L'industrie automobile;0;0;0
+1404;The oil industry;Le secteur pétrolier;1;0;0
+1405;The shipping industry;L'industrie maritime;2;0;0
+1406;An account;Un compte;0;0;0
+1407;A banking account;Un compte bancaire;0;0;0
+1408;The amount;Le montant;2;0;0
+1409;To amount to;S’élever à… (somme);0;0;0
+1410;The balance;Le solde;1;0;0
+1411;Bank charges;Frais bancaires /agios;1;0;0
+1412;A banknote;Un billet de banque;1;0;0
+1413;A coin;Un pièce de monnaie;0;0;0
+1414;A branch;Une agence;0;0;0
+1415;A broker;Un courtier;0;0;0
+1416;Brokerage;Courtage;0;1;1
+1417;Cash;L’argent liquide;0;0;0
+1418;A checkbook;Un chéquier;2;0;0
+1419;A passbook;Un livret d’épargne;0;1;1
+1420;The savings bank;La caisse d’épargne;0;0;0
+1421;A checking account;Un compte-chèque;1;0;0
+1422;A deposit account;Un compte de dépôt;1;0;0
+1423;A draft;Une traite (finance);0;0;0
+1424;To fill in / out a form;Remplir un formulaire;1;0;0
+1425;Funds;Fonds / aides financières;2;0;0
+1426;Instalment;Versement / mensualité;0;0;0
+1427;To owe something;Devoir quelque chose;0;0;0
+1428;A portfolio;Un portefeuille (d’actions/clients);0;0;0
+1429;A wallet;Un portefeuille (billets);1;0;0
+1430;A purse;La bourse (sac);1;0;0
+1431;Remittance;Versement;1;1;0
+1432;The teller;Le guichetier;0;0;0
+1433;A transfer;Un virement;1;0;0
+1434;To withdraw money;Retirer de l’argent;0;0;0
+1435;Boarding;Embarquement;0;0;0
+1436;A boarding Pass;Carte d’embarquement;1;0;0
+1437;To go on board / To board;Embarquer / monter à bord (train, avion);1;0;0
+1438;To get on / off a bus;Monter dans un bus / descendre d’un bus;1;0;0
+1439;Fare;Prix / tarif du billet (de transport : bus, taxi, train, avion);0;0;0
+1440;Entry fee;Prix d’entrée (pour un musée, cinéma);2;1;1
+1441;Entrance fee;Droit d’entrée (pour un musée, cinéma);4;0;0
+1442;Transportation;Les transports;0;0;0
+1443;Sightseeing;Le tourisme / choses à voir (monuments) : visites touristiques;0;1;1
+1444;To go sightseeing;Faire du tourisme;0;0;0
+1445;To go on holiday / vacation (US);Partir en vacances;1;0;0
+1446;A tour (= journey);Un voyage / une visite;0;0;0
+1447;A ride;Un trajet (bus / voiture);1;0;0
+1448;To ride;Voyager (en bus, train, métro) / aller en bus / aller en voiture / monter à cheval;1;0;0
+1449;A trip (journey);Un voyage : une excursion (bateau);0;0;0
+1450;A foreign travel;Un voyage à l’étranger;0;0;0
+1451;Travel allowance;Frais de déplacement;1;1;0
+1452;Abroad;À l’étranger;0;0;0
+1453;To go abroad;Partir à l’étranger;0;1;1
+1454;Overseas;À l’étranger;0;0;0
+1455;Travel is…;Les voyages sont…;0;0;0
+1456;A package tour;Un voyage organisé;1;0;0
+1457;A passenger;Un passager;2;1;1
+1458;The luggage / baggage;Les bagages;0;0;0
+1459;The luggage /baggage is heavy;Les bagages sont lourds;0;0;0
+1460;One / a piece of luggage;Un bagage;0;1;0
+1461;Three pieces of luggage/baggage;Trois bagages;0;0;0
+1462;Baggage claim;(Lieu de) récupération des bagages (aéroport);0;0;0
+1463;To retrieve;Récupérer ses bagages;1;0;0
+1464;Left-luggage (locker);Casier à consigne automatique;0;0;0
+1465;Left-luggage;Consigne;0;0;0
+1466;A direct flight;Un vol direct;0;0;0
+1467;A connecting flight;Vol avec / de correspondance;1;0;0
+1468;Connecting passenger;Passager en transit;0;0;0
+1469;A sea resort;Une station balnéaire;0;0;0
+1470;A ski resort;Une station de sports d’hiver;2;0;0
+1471;A round-trip flight;Un vol aller-retour;0;1;1
+1472;A round-trip ticket;Un billet aller-retour;1;0;0
+1473;A one-way flight;Un vol simple;1;0;0
+1474;A Non-stop flight;Un Vol sans arrêt  / sans escale;1;0;0
+1475;A stopover;Une escale / halte;0;0;0
+1476;A route;Un itinéraire;1;0;0
+1477;An airplane / a plane;Un avion;0;0;0
+1478;An aircraft;Un avion;2;0;0
+1479;An airline / carrier;Une compagnie aérienne;1;0;0
+1480;Airline ticket counter;Comptoir d’une compagnie aérienne;0;0;0
+1481;Aisle;Couloir (avion);0;0;0
+1482;Arrival and departure;Arrivée et départ;1;0;0
+1483;To book (a room, a flight, a seat);Réserver (une chambre, un vol, une place (siège));1;0;0
+1484;Booked up;Complet (hôtel);0;0;0
+1485;A taxi cab;Un taxi;2;0;0
+1486;The cabin;La carlingue de l’avion, la cabine;0;1;1
+1487;The flight deck;La cabine de pilotage;1;0;0
+1488;Cabin crew;L’équipage (avion);1;0;0
+1489;Cabin / flight attendant;Membre de l’équipage;0;0;0
+1490;A car (US) / A  carriage (GB);Un wagon (pour voyageurs);1;0;0
+1491;A wagon, truck (goods);Un wagon de marchandises;0;0;0
+1492;A shuttle;Une navette;1;0;0
+1493;A cart / trolley (US);Un chariot;1;0;0
+1494;To commute;Faire la navette entre son lieu de travail et son domicile;0;0;0
+1495;A Commuter / a suburban;Un banlieusard;2;0;0
+1496;The Customs  is;La douane est…;1;0;0
+1497;Duty-free;Hors-taxe;0;0;0
+1498;The Jet lag;Le décalage horaire;0;0;0
+1499;To land;Atterrir, se poser (avion) / débarquer (navire);1;0;0
+1500;To take off;Décoller (avion);0;0;0
+1501;Landing card;Carte de débarquement;2;0;0
+1502;A rental car;Une voiture de location;0;0;0
+1503;High season;Haute saison;2;0;0
+1504;Off season;Basse saison;0;0;0
+1505;A cruise;Une croisière;0;0;0
+1506;A cruising altitude;Altitude de croisière;0;0;0
+1507;A subway;Métro;0;0;0
+1508;A train conductor;Un contrôleur de train;0;0;0
+1509;A flight attendant;Hôtesse de l’air / steward;0;0;0
+1510;Train tracks;Les rails;0;0;0
+1511;Train crossing;Passage à niveau;0;0;0
+1512;The railway  (GB) / the railroad (US);La voie ferrée;0;0;0
+1513;The rails / the track;Les rails;2;1;1
+1514;A platform;Un quai;0;0;0
+1515;Freight;Fret / cargaison / prix du transport / port;0;0;0
+1516;Traveller’s checks;Chèques de voyage;0;0;0
+1517;The room rate;Prix de la chambre;0;0;0
+1518;Network;Réseau;0;0;0
+1519;On time;À l’heure;2;0;0
+1520;In time;A temps, à terme;0;0;0
+1521;Delay;Retard;0;0;0
+1522;To miss;Manquer, rater (le train);1;0;0
+1523;A runway;Une piste d’aviation;1;0;0
+1524;A one-way ticket;Un aller-simple;2;0;0
+1525;Rush / peak (US) hour;L’heure de pointe;0;0;0
+1526;A seat;Un siège;0;0;0
+1527;A seatbelt;Une ceinture de sécurité;0;0;0
+1528;A window / porthole;Hublot;0;0;0
+1529;A pick-up (=collection);Enlèvement / collecte de marchandises;0;0;0
+1530;Schedule;Plannings / horaires / plan / programme;0;0;0
+1531;Time zone;Fuseau horaire;0;0;0
+1532;A dispatch;Un envoi / une expédition;0;0;0
+1533;To dispatch;Envoyer / expédier  (marchandises);0;0;0
+1534;The delivery;La livraison;0;0;0
+1535;Shipping costs;Frais d’envoi;0;0;0
+1536;Shipping;Expédition / frais de transport / transport maritime;0;0;0
+1537;To attend something;Assister à (une conférence…);0;0;0
+1538;The audience;Le public / l’auditoire;0;0;0
+1539;A booth;Une cabine téléphonique (intérieure);0;0;0
+1540;A trade fair;Une foire commerciale;1;0;0
+1541;A dam;Un barrage;0;1;1
+1542;A disposal;Une élimination, un rejet;1;0;0
+1543;A drought;Une sécheresse;2;1;1
+1544;A flood;Une inondation;1;1;0
+1545;A gallon;3,79 litres;0;0;0
+1546;A grid;Un réseau;1;0;0
+1547;A photovoltaic cell;Une cellule photovoltaïque;0;0;0
+1548;A power plant/station;Une centrale (électrique);0;1;0
+1549;A recycling  bin/waste;Une poubelle de recyclage;0;0;0
+1550;A recycling plant;Une usine de recyclage;1;0;0
+1551;A renewable resource;Une ressource renouvelable;0;0;0
+1552;A smoke;Une fumée;3;0;0
+1553;A solar panel;Un panneau solaire;1;0;0
+1554;A steam engine;Un moteur à vapeur;0;0;0
+1555;A supply/supplies;Une réserve;1;0;0
+1556;A sweatshop;Un atelier d’exploitation, une usine à sueur;0;0;0
+1557;A tidal barrage;Un barrage à marée;1;1;1
+1558;A wind farm;Un parc d’éoliennes;1;0;0
+1559;A wind turbine/a windmill;Une éolienne;1;0;0
+1560;An alternative energy;Une énergie alternative;0;0;0
+1561;An environmental advocate;Un défenseur de l’environnement;0;0;0
+1562;An oil rig;Une plateforme pétrolière;0;0;0
+1563;An oil slick;Une marée noire;0;0;0
+1564;An oil/petrol/gas/fuel fill-up;Un remplissage d’essence, fuel…;0;0;0
+1565;Carbon footprint;L’empreinte carbone;0;0;0
+1566;(Char)coal;Charbon;2;0;0
+1567;Corporate Social Responsibility (CSR);La responsabilité sociale des entreprises;0;1;0
+1568;Cradle-to-grave;Du berceau au tombeau;0;1;0
+1569;Eco(logically)-friendly;Ecologique, respectueux de l’écologie;3;1;1
+1570;Endangered species;Des espèces en voie de disparition;0;0;0
+1571;Environmentally-friendly;Respectueux de l’environnement;0;0;0
+1572;Ferrous/non-ferrous;Ferreux/non-ferreux;0;0;0
+1573;Fossil fuel energy;Energie à combustible fossile;0;0;0
+1574;Genetically Modified Organisms/GMO;Organsimes Génétiquement Modifiés/ OGM;1;0;0
+1575;Geothermal energy;Energie géothermale;0;0;0
+1576;Global warming;Réchauffement de la planète;0;0;0
+1577;Greenhouse effect;Effet de serre;1;0;0
+1578;Harmful;Nocif/nuisible/dangereux;2;0;0
+1579;Hydroelectric energy;Energie hydroélectrique;2;0;0
+1580;Noxiousness;Nocivité;0;0;0
+1581;Organic;Biologique;1;0;0
+1582;Paperless;Dématérialisé (sans papier);1;0;0
+1583;Pollination;Pollinisation;1;0;0
+1584;Repurposing;Reconversion;0;0;0
+1585;Soot;Suie;0;0;0
+1586;Stringent;Strict, rigoureux;1;0;0
+1587;Sustainable development;Développement durable;0;0;0
+1588;Tenuous;Précaire, peu convaincant, mince;0;0;0
+1589;The dirt;La saleté;2;0;0
+1590;The Food and Drug Administration/FDA;Agence américaine des produits alimentaires et médicamenteux;0;0;0
+1591;The ozone layer;La couche d’ozone;0;0;0
+1592;Tidal power;L’énergie des marées;0;0;0
+1593;To check a burner;Vérifier les brûleurs (chauffage);0;0;0
+1594;To dispose of something;Jeter, se débarrasser de quelque-chose;2;0;0
+1595;To gasp;Avoir le souffle coupé, haleter;1;0;0
+1596;To generate power;Générer de l’énergie;0;0;0
+1597;To recharge a device;Recharger un appareil;0;0;0
+1598;To sort out waste;Trier les déchets;1;0;0
+1599;To store;Entreposer, stocker;1;0;0
+1600;To switch on/off;Allumer/éteindre;1;0;0
+1601;Unleaded petrol;Essence sans-plomb;3;0;0
