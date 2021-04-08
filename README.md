@@ -7,3 +7,7 @@ Launch the trainer with run.bat file
 - tkinter
 - numpy
 - pandas
+
+## Custom vocabulary
+You can add new words in the new_words.xlsx file or create your own xlsx file following the same format.
+Then, load using the GUI
